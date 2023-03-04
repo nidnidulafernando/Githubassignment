@@ -1,8 +1,16 @@
-# Github Test Project
+# Github Final Project
 
-This project is a simple example for learning how to use GitHub.
+## Micro-Finance Startup Project
 
-## Getting Started
+This is a simple micro-finance startup project that calculates simple interest. 
+
+## Usage
+
+To calculate simple interest, simply clone the repository and run the `simple-interest.sh` file.
+
+
+
+## How to get started withis repo?
 
 To get started, you can clone this repository:
 - git clone https://github.com/nidnidulafernando/Githubassignment.git
