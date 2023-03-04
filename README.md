@@ -5,7 +5,7 @@ This project is a simple example for learning how to use GitHub.
 ## Getting Started
 
 To get started, you can clone this repository:
-- git clone https://github.com/yourusername/test-project.git
+- git clone https://github.com/nidnidulafernando/Githubassignment.git
 
 ### Prerequisites
 
