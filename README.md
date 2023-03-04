@@ -12,6 +12,14 @@ To calculate simple interest, simply clone the repository and run the `simple-in
 
 So simply we can calculate the interest by multipling the simple interest rate
 
+## Input:
+### p, principal amount
+### t, time period in years
+### r, annual rate of interest
+
+## Output:
+### compound interest = p * (1 + r/100)^t
+
 ## How to get started withis repo?
 
 To get started, you can clone this repository:
