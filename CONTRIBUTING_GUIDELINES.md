@@ -6,7 +6,7 @@ Thank you for considering contributing to this project! Please take a moment to 
 
 This project adheres to the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to nidulafernando@gmail.com.
 
-### Before making any contributions....
+### Before Making Any Contributions....
 
 - Check if the feature or bug fix is already in progress or has already been reported by searching the issue tracker.
 - If you do not find a related issue, open a new issue to discuss the feature or bug fix you want to work on.
