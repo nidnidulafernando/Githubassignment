@@ -4,7 +4,18 @@ Thank you for considering contributing to this project! Please take a moment to 
 
 ## Code of Conduct
 
-This project adheres to the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact email].
+This project adheres to the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to nidulafernando@gmail.com.
+
+### Before making any contributions....
+
+- Check if the feature or bug fix is already in progress or has already been reported by searching the issue tracker.
+- If you do not find a related issue, open a new issue to discuss the feature or bug fix you want to work on.
+- Once your issue is approved, fork the repository and create a new branch for your contribution.
+- Write clear and concise code and documentation.
+- Ensure your code is thoroughly tested and free of errors.
+- Make a pull request and describe the changes you made.
+- Respond to any comments or suggestions made during the review process.
+- Once your pull request is approved, your changes will be merged into the master branch.
 
 ## How to Contribute
 
