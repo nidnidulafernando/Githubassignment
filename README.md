@@ -8,7 +8,7 @@ This is a simple micro-finance startup project that calculates simple interest.
 
 To calculate simple interest, simply clone the repository and run the `simple-interest.sh` file.
 
-##Maths behind the project
+## Maths behind the project
 
 So simply we can calculate the interest by multipling the simple interest rate
 
