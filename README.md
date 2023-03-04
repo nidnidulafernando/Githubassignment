@@ -18,7 +18,7 @@ So simply we can calculate the interest by multipling the simple interest rate
 ### r, annual rate of interest
 
 ## Output:
-### compound interest = p * (1 + r/100)^t
+### Simple interest = p*t*r
 
 ## How to get started withis repo?
 
