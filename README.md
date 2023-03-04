@@ -1,6 +1,6 @@
 # Github Final Project
 
-## Micro-Finance Startup Project
+## Simple Interest Calculator
 
 This is a simple micro-finance startup project that calculates simple interest. 
 
